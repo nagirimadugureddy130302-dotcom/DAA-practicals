@@ -1,0 +1,5 @@
+binarysearch output
+PS C:\Users\nshas\git_practical1\DAA\practical02> & C:\Users\nshas\git_practical1\DAA\practical02\binarysearch.exe
+5
+
+linear serch output
