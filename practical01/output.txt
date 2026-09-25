@@ -1,0 +1,16 @@
+PS C:\Users\nshas\git_practical1\DAA\practical01> & C:\Users\nshas\git_practical1\DAA\practical01\bubblesort.exe
+Original array: 64 34 25 12 22 11 90 45 78 3 
+Sorted array: 3 11 12 22 25 34 45 64 78 90 
+ 
+ insertion sort output
+ PS C:\Users\nshas\git_practical1\DAA\practical01> & "C:\Users\nshas\git_practical1\DAA\practical01\insertion sort.exe"
+3 11 12 22 25 34 45 64 78 90 
+
+merge sort output
+PS C:\Users\nshas\git_practical1\DAA\practical01> & C:\Users\nshas\git_practical1\DAA\practical01\mergesort.exe
+3 11 12 22 25 34 45 64 78 90 
+
+quicksort outputPS C:\Users\nshas\git_practical1\DAA\practical01> & C:\Users\nshas\git_practical1\DAA\practical01\quicksort.exe
+3 11 12 22 25 34 45 64 78 90 
+
+selectionsort output
