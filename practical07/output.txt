@@ -1,0 +1,4 @@
+output
+
+PS C:\Users\nshas\git_practical1\DAA\practical07> & "C:\Users\nshas\git_practical1\DAA\practical07\min coin.exe"
+2
