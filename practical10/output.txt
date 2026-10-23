@@ -1,0 +1,5 @@
+ C:\Users\nshas\daa\practical10> & C:\Users\nshas\daa\practical10\kruskalsalg.exe
+2 - 3 : 4
+0 - 3 : 5
+0 - 1 : 10
+MST cost = 19

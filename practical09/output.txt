@@ -1,0 +1,6 @@
+PS C:\Users\nshas\daa\practical09> & "C:\Users\nshas\daa\practical09\prims algorith.exe"
+0 - 1 : 2
+1 - 2 : 3
+0 - 3 : 6
+1 - 4 : 5
+MST cost = 16
